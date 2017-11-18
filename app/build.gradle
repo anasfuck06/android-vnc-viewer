@@ -4,7 +4,7 @@ android {
     compileSdkVersion 21
     buildToolsVersion '26.0.2'
     defaultConfig {
-        applicationId 'com.offsec.nhvnc'
+        applicationId 'net.thecybershadow.vnc'
         minSdkVersion 14
         targetSdkVersion 14
     }
