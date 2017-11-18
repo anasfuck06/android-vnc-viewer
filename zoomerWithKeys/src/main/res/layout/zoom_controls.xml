@@ -27,6 +27,7 @@
     	android:background="@android:drawable/ic_dialog_dialer"
     	android:layout_width="wrap_content"
     	android:layout_height="wrap_content"
+    	android:contentDescription="@string/zoom_keys"
     	/>
     <ZoomButton android:id="@+id/zoomIn" 
         android:background="@drawable/btn_zoom_up"

@@ -80,4 +80,6 @@
     <string name="username_hint">For Windows Authentication</string>
     <string name="permdesc_open_vnc_conn">Launch custom VNC connections</string>
     <string name="input_mode_hardware_mouse">Hardware Mouse Mode</string>
+    <string name="previous_entry">Previous entry</string>
+    <string name="next_entry">Next entry</string>
 </resources>
